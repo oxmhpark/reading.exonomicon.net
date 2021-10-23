@@ -19,7 +19,7 @@ avatar:
 #
 
 format:
-  date: %Y.%m.%d.
+  date: "%Y.%m.%d."
 
 # Includes an icon in the footer for each username you enter
 footer-links:
