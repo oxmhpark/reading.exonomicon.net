@@ -1,6 +1,7 @@
 ---
-type:post
-title:"만년필 찾기"
+layout : post
+title : "만년필 찾기"
+comments : true
 ---
 오로라 만년필 판매점 링크
 - [베스트펜](http://www.bestpen.kr/shop/shopbrand.html?type=Y&xcode=038&mcode=003&scode=012&sort=price2&page=1#pa_dan)
